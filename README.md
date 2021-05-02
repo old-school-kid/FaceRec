@@ -4,12 +4,15 @@ An innovative way to mark attenence using face recognition.
 ## Table of Contents
 
 - [Problem Statement](#Problem-Statement)
-- [Solution](#solution)
+- [Solution](#Our-solution)
 - [Machine Learning](#Machine-Learning)
 - [Dependecies](#Dependencies)
 - [How to run](#Instruction)
 - [Project Links](#Important-links)
 
+
+## Problem Statement
+Online education, though the need of the hour, has also given rise to a lot of instances of students missing classes and cheating. So, we need a robust and innovative system for attendance marking, which is altered for this particular situation.
 
 ## Our solution
 The images are captured and saved during the registration of each student in a database.
