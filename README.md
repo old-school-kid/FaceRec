@@ -46,7 +46,10 @@ To run the project locally make sure to have the following dependencies installe
 1. Install all the dependencies
 2. Clone the project
 3. Save photos in People folder
-4. execute python app.py
+4. execute 
+ ```
+python app.py
+```
 
 ## Important Links
 [Presentation](https://docs.google.com/presentation/d/16Qo8kPsEAf80XfjHPQvojUBLmF5acv4QFXHnp_-rSnk/edit?usp=sharing)
