@@ -43,10 +43,13 @@ To run the project locally make sure to have the following dependencies installe
 9. pyhton-3.x
 
 ## Instruction
-1. Install all the dependencies
-2. Clone the project
+1. Clone the project
+2. Install all the dependencies
+ ```
+pip install requirements.txt
+```
 3. Save photos in People folder
-4. execute 
+4. execute while in the directory
  ```
 python app.py
 ```
