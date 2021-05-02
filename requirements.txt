@@ -1,0 +1,14 @@
+tensorflow-gpu
+tensorflow
+keras
+numpy
+scipy
+opencv-python
+pandas
+xlrd
+openpyxl
+face_recognition
+pandas
+flask
+flask-login
+flask_sqlalchemy
