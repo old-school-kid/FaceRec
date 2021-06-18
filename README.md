@@ -57,6 +57,7 @@ python app.py
 
 ## Demo
 The model recognizes the person and marks his/her attendance while recognizing possible fakes like images.
+![Demo](https://github.com/old-school-kid/FaceRec/blob/main/images/FaceRec.gif?raw=true)
 
 ## Important Links
 [Presentation](https://docs.google.com/presentation/d/16Qo8kPsEAf80XfjHPQvojUBLmF5acv4QFXHnp_-rSnk/edit?usp=sharing)
