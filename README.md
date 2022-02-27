@@ -47,7 +47,7 @@ To run the project locally make sure to have the following dependencies installe
 1. Clone the project
 2. Install all the dependencies
  ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 3. Save photos in People folder
 4. execute while in the directory
