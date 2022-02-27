@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 tensorflow-gpu
 tensorflow
 keras
@@ -28,4 +27,3 @@ pandas
 flask
 flask-login
 flask_sqlalchemy
->>>>>>> 5f03060fac5de771be6c18ff3c1d1bebf250bafb
